@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lecture17</string>
+    <string name="button_name">О программе</string>
+    <string name="about_name"><b>Представим</b>, что тут что-то <i>оригинальное</i>;)</string>
+    <string name="button2_name">Цвет фона окна</string>
+    <string name="button5_name">Персиковый</string>
+    <string name="button3_name">Цвет морской волны</string>
+    <string name="button4_name">Оливковый</string>
+</resources>

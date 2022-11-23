@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice14</string>
+    <string name="email">Введите email</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="btnResult">Отправить для изменения</string>
+    <string name="email2">Email</string>
+    <string name="name2">Имя</string>
+    <string name="age2">Возраст</string>
+    <string name="btnResult2">Отправить изменения для сохранения</string>
+</resources>

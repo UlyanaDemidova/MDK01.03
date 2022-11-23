@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice9</string>
+    <string name="name_copyright">Copyright (C) 2021</string>
+    <string name="name_verse">
+        Лес, точно терем расписной,
+        Лиловый, золотой, багряный,
+        Веселой, пестрою стеной
+        Стоит над светлою поляной.</string>
+</resources>
